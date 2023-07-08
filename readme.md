@@ -78,4 +78,8 @@ Import the csv into Tableau and answer the following questions:
     </details>
 
     - Plot average balance for each group. Do you observe any trend?
+  
+   ### Results
+
+    Into this [Tableau Public](https://public.tableau.com/app/profile/daniel.retana/viz/case_study_ab_test_grouping_data/Averagebalance) you can find the final visualization for this lab.
 
